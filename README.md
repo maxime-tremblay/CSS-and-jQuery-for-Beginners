@@ -7,5 +7,7 @@
 [CSS Zen Garden](http://www.csszengarden.com)
 
 [Codepen - Example 1](https://codepen.io/mtremblaydev/pen/LvJBaE)
+
 [Codepen - Example 2](https://codepen.io/mtremblaydev/pen/mZPMNO)
+
 [Codepen - Example 3](https://codepen.io/mtremblaydev/pen/XLayWp)
