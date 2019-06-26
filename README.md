@@ -6,7 +6,7 @@
 ## Links
 [CSS Zen Garden](http://www.csszengarden.com)
 
-[Codepen - Example 1](https://codepen.io/mtremblaydev/pen/LvJBaE)
+[Codepen - Example 1](https://codepen.io/mtremblaydev/pen/oRgMYq)
 
 [Codepen - Example 2](https://codepen.io/mtremblaydev/pen/mZPMNO)
 
